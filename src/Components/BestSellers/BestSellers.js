@@ -20,7 +20,7 @@ function BestSellers() {
                             <p className='text-while p-1'>BUCHANAN’S DELUXE 12 ANOS</p>
                         </div>
                     </div>
-                    <div class="Card hidden lg:flex">
+                    <div class="Card hidden lg:flex"> 
                         <img src={vino} alt="botella Buca" />
                     </div>
                 </div>
