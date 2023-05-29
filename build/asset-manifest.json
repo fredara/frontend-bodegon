@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.4ae02494.css",
-    "main.js": "/static/js/main.6e6ef09e.js",
-    "static/media/botellas.png": "/static/media/botellas.10e5d30764ea320b04db.png",
-    "static/media/botellaMobile.png": "/static/media/botellaMobile.3a5a539f70119d9a84eb.png",
-    "static/media/infoMobile.png": "/static/media/infoMobile.109bd3022c73817ffede.png",
-    "static/media/fondo_info.png": "/static/media/fondo_info.9ff302c67a7cba1e3555.png",
-    "static/media/fondo2.jpg": "/static/media/fondo2.755b70f8c621ccb9c853.jpg",
-    "static/media/fondo2Mobile.jpg": "/static/media/fondo2Mobile.d4f77e45d5d16a579ba2.jpg",
-    "static/media/fondo3Mobile.jpg": "/static/media/fondo3Mobile.5c1d9beeaee3ef5cd6f5.jpg",
-    "static/media/fondo3.jpg": "/static/media/fondo3.aa6216805690923d0d2a.jpg",
-    "static/media/vino.png": "/static/media/vino.fe8a479fc9b99345d1ee.png",
-    "static/media/buca.png": "/static/media/buca.1f83dc0ae42f1f5eb717.png",
-    "static/media/vino2.png": "/static/media/vino2.da80dbd83aea7160db69.png",
-    "static/media/cacique.png": "/static/media/cacique.1f4fd44f707d5ad09554.png",
-    "static/media/black.png": "/static/media/black.8119611534b62fa05e87.png",
-    "static/media/vocka.png": "/static/media/vocka.82c73820d1580658ac82.png",
-    "static/media/santateresa.png": "/static/media/santateresa.424916e1755b91fb14fd.png",
-    "static/media/logobode.png": "/static/media/logobode.f881b4d49aafa409b739.png",
-    "index.html": "/index.html",
-    "main.4ae02494.css.map": "/static/css/main.4ae02494.css.map",
-    "main.6e6ef09e.js.map": "/static/js/main.6e6ef09e.js.map"
+    "main.css": "/frontend-bodegon/static/css/main.8f000a44.css",
+    "main.js": "/frontend-bodegon/static/js/main.419ffe1b.js",
+    "static/media/botellas.png": "/frontend-bodegon/static/media/botellas.10e5d30764ea320b04db.png",
+    "static/media/botellaMobile.png": "/frontend-bodegon/static/media/botellaMobile.3a5a539f70119d9a84eb.png",
+    "static/media/infoMobile.png": "/frontend-bodegon/static/media/infoMobile.109bd3022c73817ffede.png",
+    "static/media/fondo_info.png": "/frontend-bodegon/static/media/fondo_info.9ff302c67a7cba1e3555.png",
+    "static/media/fondo2.jpg": "/frontend-bodegon/static/media/fondo2.755b70f8c621ccb9c853.jpg",
+    "static/media/fondo2Mobile.jpg": "/frontend-bodegon/static/media/fondo2Mobile.d4f77e45d5d16a579ba2.jpg",
+    "static/media/fondo3Mobile.jpg": "/frontend-bodegon/static/media/fondo3Mobile.5c1d9beeaee3ef5cd6f5.jpg",
+    "static/media/fondo3.jpg": "/frontend-bodegon/static/media/fondo3.aa6216805690923d0d2a.jpg",
+    "static/media/vino.png": "/frontend-bodegon/static/media/vino.fe8a479fc9b99345d1ee.png",
+    "static/media/buca.png": "/frontend-bodegon/static/media/buca.1f83dc0ae42f1f5eb717.png",
+    "static/media/vino2.png": "/frontend-bodegon/static/media/vino2.da80dbd83aea7160db69.png",
+    "static/media/cacique.png": "/frontend-bodegon/static/media/cacique.1f4fd44f707d5ad09554.png",
+    "static/media/black.png": "/frontend-bodegon/static/media/black.8119611534b62fa05e87.png",
+    "static/media/vocka.png": "/frontend-bodegon/static/media/vocka.82c73820d1580658ac82.png",
+    "static/media/santateresa.png": "/frontend-bodegon/static/media/santateresa.424916e1755b91fb14fd.png",
+    "static/media/logobode.png": "/frontend-bodegon/static/media/logobode.f881b4d49aafa409b739.png",
+    "index.html": "/frontend-bodegon/index.html",
+    "main.8f000a44.css.map": "/frontend-bodegon/static/css/main.8f000a44.css.map",
+    "main.419ffe1b.js.map": "/frontend-bodegon/static/js/main.419ffe1b.js.map"
   },
   "entrypoints": [
-    "static/css/main.4ae02494.css",
-    "static/js/main.6e6ef09e.js"
+    "static/css/main.8f000a44.css",
+    "static/js/main.419ffe1b.js"
   ]
 }
